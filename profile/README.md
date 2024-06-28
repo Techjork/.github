@@ -1,14 +1,15 @@
-# Welcome to Techjork IT Solution Limited! 👋
+# Welcome to Techjork IT Solutions Limited! 👋
 
 ## 🌟 About Us 🌟
-**Techjork IT Solution Limited**, fondly known as **Techjork**, is dedicated to providing top-notch IT solutions tailored to meet the unique needs of our clients. Founded by the talented web developer, **devtz007**, our company excels in delivering high-quality web development, software solutions, and IT consultancy services.
+**[Techjork IT Solutions Limited](https://techjork.com)**, fondly known as **Techjork**, is dedicated to providing top-notch IT solutions tailored to meet the unique needs of our clients. Founded by the talented web developer, **devtz007**, our company excels in delivering high-quality web development, software solutions, and IT consultancy services.
 
 ## 🤝 How to Get Involved 🤝
 We believe in the power of community and collaboration. Here’s how you can get involved with Techjork:
 
 - **Join our Projects**: Check out our repositories and find a project that sparks your interest.
 - **Report Issues**: If you find any bugs or issues, feel free to report them in the issue tracker.
-- **Contribute**: Whether it’s writing code, improving documentation, or suggesting new features, your contributions are always welcome! Make sure to follow our contribution guidelines.
+- **Contribute**: Whether it’s writing code, improving documentation, or suggesting new features, your contributions are 
+    always welcome! Make sure to follow our contribution guidelines.
 
 ## 📜 Contribution Guidelines 📜
 To ensure a smooth collaboration process, please follow these guidelines when contributing:
@@ -27,7 +28,7 @@ Here are some resources to help you get started with our projects:
 
 ## 🎉 Fun Facts 🎉
 - **🍽️ Breakfast Culture**: At Techjork, we love to kickstart our day with a hearty breakfast. Our team's favorites range from classic pancakes to exotic smoothies.
-- **🦉 Office Mascot**: We have a friendly office mascot, a stuffed owl named Codey, who watches over our coding marathons and brainstorming sessions.
+- **🦉 Office Mascot**: We have a friendly office mascot, a stuffed robot named Techjork, who watches over our coding marathons and brainstorming sessions.
 
 ## 🌐 Let's Connect 🌐
 We are excited to collaborate with you and achieve mighty things together! If you have any questions or just want to say hi, feel free to reach out.
@@ -35,4 +36,4 @@ We are excited to collaborate with you and achieve mighty things together! If yo
 ---
 **[devtz007](https://github.com/devtz007)**  
 *Founder and Web Developer*  
-[Techjork IT Solution Limited](https://github.com/Techjork)
+[Techjork IT Solutions Limited](https://techjork.com)
