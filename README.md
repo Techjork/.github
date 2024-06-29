@@ -1,4 +1,4 @@
-# Techjork IT Solution Limited
+# Techjork IT Solutions Limited
 
 Where Security Meets Innovation
 
