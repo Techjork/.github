@@ -9,7 +9,7 @@
 
 We at Techjork IT Solutions Limited are committed to providing top-notch IT services tailored to your needs. Here's how you can hire us:
 
-- **Contact Us**: Reach out to us via our website or email us at [contact@techjork.com](mailto:contact@techjork.com). We'll get back to you promptly to discuss your requirements.
+- **Contact Us**: Reach out to us via our website or email us at [mail@techjork.com](mailto:contact@techjork.com). We'll get back to you promptly to discuss your requirements.
 - **Consultation**: Schedule a consultation to discuss your project in detail. We'll understand your needs, scope, and goals to ensure we deliver the best solutions.
 - **Get a Quote**: Based on the consultation, we'll provide you with a detailed quote outlining the services, timeline, and costs involved.
 - **Sign the Agreement**: Once you're satisfied with the proposal, we'll sign a formal agreement to kickstart the project.
