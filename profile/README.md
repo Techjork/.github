@@ -6,6 +6,22 @@
 ## 🌟 About Us 🌟
 **[Techjork IT Solutions Limited](https://techjork.com)**, fondly known as **TechJork**, is dedicated to providing top-notch IT solutions tailored to meet the unique needs of our clients. Founded by the talented web developer, **devtz007**, our company excels in delivering high-quality web development, software solutions, and IT consultancy services.
 
+### 🚀 Our Services 🚀
+
+At Techjork IT Solutions Limited, we offer a range of services to meet your IT needs:
+
+- **Software Development**  
+  ![Software Development](https://img.shields.io/badge/Software_Development-FFD700?style=for-the-badge&logo=code&logoColor=white)  
+  Our team specializes in developing robust and scalable software solutions tailored to your business requirements.
+
+- **Cyber Security**  
+  ![Cyber Security](https://img.shields.io/badge/Cyber_Security-FF5733?style=for-the-badge&logo=security&logoColor=white)  
+  Protect your business with our comprehensive cyber security services, including vulnerability assessments, penetration testing, and threat mitigation.
+
+- **IT Consultation**  
+  ![IT Consultation](https://img.shields.io/badge/IT_Consultation-1E90FF?style=for-the-badge&logo=consulting&logoColor=white)  
+  Leverage our expertise to optimize your IT infrastructure and strategy, ensuring maximum efficiency and innovation for your organization.
+
 ---
 
 ## 🤝 How to Hire Us 🤝
@@ -32,7 +48,7 @@ Reach out to us on any of these platforms for more information or to get started
 
 ---
 
-## For the developers only
+**For the developers only**
 ## 🤝 How to Get Involved 🤝
 We believe in the power of community and collaboration. Here’s how you can get involved with Techjork:
 
