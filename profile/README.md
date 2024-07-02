@@ -1,4 +1,4 @@
-### Welcome to Techjork IT Solutions Limited! 👋
+**Welcome to Techjork IT Solutions Limited! 👋**
 
 ## 🌟 About Us 🌟
 **[Techjork IT Solutions Limited](https://techjork.com)**, fondly known as **TechJork**, is dedicated to providing top-notch IT solutions tailored to meet the unique needs of our clients. Founded by the talented web developer, **devtz007**, our company excels in delivering high-quality web development, software solutions, and IT consultancy services.
@@ -28,7 +28,6 @@ Feel free to contact us anytime to discuss your project and see how we can assis
 Reach out to us on any of these platforms for more information or to get started!
 
 ---
----
 
 ## For the developers only
 ## 🤝 How to Get Involved 🤝
@@ -54,12 +53,11 @@ Here are some resources to help you get started with our projects:
 - **Community Forum**: Join our [forum](https://github.com/Techjork/forum) to discuss ideas, ask questions, and connect with other community members.
 - **Developer Guide**: Check out our [developer guide](https://github.com/Techjork/developer-guide) for tips on contributing to our projects.
 
-
 ## 🌐 Let's Connect 🌐
 We are excited to collaborate with you and achieve mighty things together! If you have any questions or just want to say hi, feel free to reach out.
 
 ---
 
 **[devtz007](https://github.com/devtz007)**  
-*Founder and Web Developer*  
-[Techjork IT Solutions Limited](https://techjork.com)
+*Founder and CEO*  
+[Techjork IT Solutions Limited](https://www.techjork.com)
