@@ -17,8 +17,6 @@ We at Techjork IT Solutions Limited are committed to providing top-notch IT serv
 
 Feel free to contact us anytime to discuss your project and see how we can assist you in achieving your goals!
 
----
-
 **Follow and Contact Us on Social Media:**
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/techjork)
