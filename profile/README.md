@@ -1,5 +1,5 @@
 **Welcome to Techjork IT Solutions Limited! 👋**  
-*Where Security Meets Innovation gg*
+*Where Security Meets Innovation.*
 
 
 
