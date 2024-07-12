@@ -1,5 +1,6 @@
-# Techjork IT Solutions Limited
+# **Techjork IT Solutions Limited**
+*Where Security Meets Innovation*
 
-Where Security Meets Innovation
+Welcome to [Techjork IT Solutions Limited](https://www.techjork.com). We blend cutting-edge security practices with creative solutions in software development and DevOps.
 
-This repository hosts Techjork IT Solution Limited's website, showcasing our commitment to integrating cutting-edge security practices with innovative solutions in software development and DevOps.
+
