@@ -1,0 +1,8 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/api/updateText/route": "/api/updateText",
+  "/(home)/about_us/page": "/about_us",
+  "/(home)/login/page": "/login",
+  "/(home)/page": "/",
+  "/(home)/registration/page": "/registration"
+}
